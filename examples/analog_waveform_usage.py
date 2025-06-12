@@ -1,4 +1,4 @@
-"""Use TekHSI to plot an analog waveform."""
+"""Use TekHSI to plot an analog waveforms."""
 
 import matplotlib.pyplot as plt
 
